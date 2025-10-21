@@ -2,7 +2,7 @@
 ---
 with the help of this desktop based app you can log into your email and analyze every single email for phishing with reasons and point system on a scale of 100
 
-## <u>Demmo Video</u>:
+## <u>Demo Video</u>:
 https://www.linkedin.com/posts/rohitmaity_python-python3-developer-activity-7386416326912888832-dtbo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0Qjt0BVIj8_enLYbO7cC4Dwm3cF_K8Dqw
 
 
