@@ -26,4 +26,4 @@ with the help of this desktop based app you can log into your email and analyze 
 5. if and only if it detect any malicious link through any online detector engine then only it will produce report. 
 
 
-### ==This is totally my own personal project==
+### This is totally my own personal project
